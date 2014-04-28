@@ -14,6 +14,7 @@
 {
     [_window release];
     [super dealloc];
+    //测试提交  hh 
 }
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions

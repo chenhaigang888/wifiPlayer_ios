@@ -26,7 +26,6 @@
 		5F054DB2173C0947009CA52D /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F054D4C173C0947009CA52D /* SBJsonParser.m */; };
 		5F054DB3173C0947009CA52D /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F054D4E173C0947009CA52D /* SBJsonWriter.m */; };
 		5F1962BF172253C50045E948 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F1962BE172253C50045E948 /* CFNetwork.framework */; };
-		5F1962C2172257DA0045E948 /* People.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5F1962C0172257DA0045E948 /* People.cpp */; };
 		5F1962C817225F520045E948 /* ConnServerManager.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5F1962C717225F520045E948 /* ConnServerManager.mm */; };
 		5F1CFCE6172805E200D29E18 /* Head.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5F1CFCE4172805E200D29E18 /* Head.cpp */; };
 		5F1CFCE9172808BE00D29E18 /* Bodys.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5F1CFCE7172808BE00D29E18 /* Bodys.cpp */; };
@@ -108,8 +107,6 @@
 		5F054D4D173C0947009CA52D /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
 		5F054D4E173C0947009CA52D /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
 		5F1962BE172253C50045E948 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
-		5F1962C0172257DA0045E948 /* People.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = People.cpp; path = "../../../../Desktop/学习内容/ios_project/wifiPlayer/wifiPlayer/People.cpp"; sourceTree = "<group>"; };
-		5F1962C1172257DA0045E948 /* People.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = People.h; path = "../../../../Desktop/学习内容/ios_project/wifiPlayer/wifiPlayer/People.h"; sourceTree = "<group>"; };
 		5F1962C617225F520045E948 /* ConnServerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConnServerManager.h; sourceTree = "<group>"; };
 		5F1962C717225F520045E948 /* ConnServerManager.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ConnServerManager.mm; sourceTree = "<group>"; };
 		5F1CFCE4172805E200D29E18 /* Head.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Head.cpp; sourceTree = "<group>"; };
@@ -357,9 +354,7 @@
 				5F054C00173C05ED009CA52D /* txWeiBo */,
 				5F2B00331733E31F00CB7E59 /* subViews */,
 				5FF1F629172F6755001684FE /* utils */,
-				5F1962C0172257DA0045E948 /* People.cpp */,
 				5F054BEE173BE2E3009CA52D /* midiAd */,
-				5F1962C1172257DA0045E948 /* People.h */,
 				5FF7D6A2171A49F3008A2A24 /* wifiPlayer_3.0_ios.entitlements */,
 				5FF7D68E171A4665008A2A24 /* AppDelegate.h */,
 				5FF7D68F171A4665008A2A24 /* AppDelegate.mm */,
@@ -500,7 +495,6 @@
 				5FF7D690171A4665008A2A24 /* AppDelegate.mm in Sources */,
 				5FF7D69C171A4665008A2A24 /* ViewController.mm in Sources */,
 				5FF7D6AA171AD1B3008A2A24 /* ListViewItem.mm in Sources */,
-				5F1962C2172257DA0045E948 /* People.cpp in Sources */,
 				5F1962C817225F520045E948 /* ConnServerManager.mm in Sources */,
 				5F1CFCE6172805E200D29E18 /* Head.cpp in Sources */,
 				5F1CFCE9172808BE00D29E18 /* Bodys.cpp in Sources */,
